@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [5.5.1](https://github.com/susanev/pulumi-proxmoxve/compare/v5.5.0...v5.5.1) (2023-06-13)
+
+
+### Miscellaneous Chores
+
+* **ci:** add sdk/go.mod for version bumps ([3e2ffd9](https://github.com/susanev/pulumi-proxmoxve/commit/3e2ffd9f85b7c6e0bf17a9f10fd456c6c44b56e0))
+* replace standard-version with release-please; update dependencies ([c605c58](https://github.com/susanev/pulumi-proxmoxve/commit/c605c585fd60fc26ce40d5a6b36fa1ecd7ee2a14))
+
 ## [5.5.0](https://github.com/muhlba91/pulumi-proxmoxve/compare/v5.4.0...v5.5.0) (2023-06-08)
 
 
